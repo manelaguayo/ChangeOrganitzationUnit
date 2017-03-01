@@ -1,4 +1,4 @@
-# ChangeOrganitzationUnit
+# ChangeOrganitzationUnit for Google Apps Script
 This Google App Script allow an Administrator Console (Google for Education) change the organitzation unit of School Chromebooks to control this devices with a different configurations when it stay on school and then in home. 
 
 When your code its DONE, use Google Apps Script Triggers to schedule this methods.
