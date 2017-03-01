@@ -7,5 +7,8 @@ For example:
 - Everyday between 8.00h and 9.00h - Execute changeOrganitzationUnitForHome()
 - Everyday between 18.00h and 19.00h - Execute changeOrganitzationUnitForSchool()
 
+**Remember add on ChromebookList[] your SerialNumberChromebooks List.
+
 @author: Manel Aguayo
+
 @Platform: Google Apps Script
